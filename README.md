@@ -1,6 +1,6 @@
 # AngularTourOfHeroes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3. Right now this project is reflecting my learning process of angular. After the basics are implemented, the direction will change towards a web-based tabletop ambience tool for online and offline pen&paper sessions.
 
 ## Development server
 
